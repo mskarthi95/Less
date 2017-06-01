@@ -1,0 +1,20 @@
+h1 {
+  color: #FF7F50;
+}
+h3 {
+  color: #800080;
+}
+body {
+  color: black;
+}
+p {
+  color: black;
+}
+.myclass {
+  font-size: 50px;
+  color: green;
+}
+.one {
+  font-size: 10px;
+  color: red;
+}

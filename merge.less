@@ -1,0 +1,15 @@
+    .mixin() {  
+      transform+_: scale(1);  
+    }  
+    .merge {  
+      .mixin();  
+      transform+_: rotate(2deg);  
+    }   
+
+    .func() {
+box-shadow+:5px 5px 5px green;
+    }
+    .comma {
+    	.func();
+box-shadow+:0 0 5px red;
+    }

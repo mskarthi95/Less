@@ -1,0 +1,6 @@
+.merge {
+  transform: scale(1) rotate(2deg);
+}
+.comma {
+  box-shadow: 5px 5px 5px green, 0 0 5px red;
+}
